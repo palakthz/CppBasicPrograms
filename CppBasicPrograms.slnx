@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArraySumAverage/ArraySumAverage.vcxproj" />
+  <Project Path="calculator/calculator.vcxproj" />
+  <Project Path="prime_check/prime_check.vcxproj" />
+  <Project Path="ReverseNumber/ReverseNumber.vcxproj" />
+</Solution>
