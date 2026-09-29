@@ -3,8 +3,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ArraySumAverage/ArraySumAverage.vcxproj" />
-  <Project Path="calculator/calculator.vcxproj" />
-  <Project Path="prime_check/prime_check.vcxproj" />
-  <Project Path="ReverseNumber/ReverseNumber.vcxproj" />
+  <Project Path="ArraySumAverage/ArraySumAverage.vcxproj" Id="4bbcb59d-a2eb-4200-845e-bd56ddb110a3" />
+  <Project Path="bubbleSort/bubbleSort.vcxproj" Id="177e51a7-c615-4722-8e79-c582ec4b4d98" />
+  <Project Path="calculator/calculator.vcxproj" Id="fdb41c0d-459a-4b84-8b73-aa89da9601d7" />
+  <Project Path="countVowels/countVowels.vcxproj" Id="358c3036-fb19-4316-9953-8402e3301d3f" />
+  <Project Path="factorial/factorial.vcxproj" Id="29135d86-cd8b-4126-a01e-bda43c51bb4c" />
+  <Project Path="prime_check/prime_check.vcxproj" Id="c599d1aa-0a7d-4efb-ae40-1e18517ae758" />
+  <Project Path="reverseArray/reverseArray.vcxproj" Id="c8f2dc3f-4c1c-4fcb-9e69-a9c28fc296d2" />
+  <Project Path="ReverseNumber/ReverseNumber.vcxproj" Id="0472b86e-b50f-4474-9d0a-fbd005b8f86e" />
 </Solution>
